@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Vollkorn');
+.gg{
+	background-color: #fff !important;
+	opacity: 0.6;
+}
+.logo{
+	background-image: url(../images/real.png);
+	background-repeat: no-repeat;
+	background-size: auto 100%;
+	height: 60px;
+}
+.log{
+	width: 165px !important;
+}
+.call{
+	color: #000 !important;
+	font-family: 'Cormorant Garamond', serif;
+}
+.listt{
+	float: right;
+}
