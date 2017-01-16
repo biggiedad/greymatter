@@ -98,16 +98,21 @@
 .ic{
 	font-size: 65px !important;
 }
+.box_cont1{
+	text-align: center;
+	color: white;
+}
+
+
 .box{
-	border:2px solid grey;
+	// border:2px solid grey;
 	height: 400px;
+	background-color: #0000CD;
 }
 .box_cont{
-	position: absolute;
-	top: 50%;
-	right: 50px;
+	color: white;
 	font-size: 16px;
-	text-transform: uppercase;
+	text-align: justify;
 }
 td{
 	text-align: center !important;
