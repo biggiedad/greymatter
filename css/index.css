@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 *{
 	padding: 0px;
 	margin: 0px;
@@ -69,6 +68,7 @@
 }
 .mak{
 	font-size: 35px;
+	margin-top: 25px;
 	text-align: center;
 	font-family: 'Vollkorn', serif;
 	text-transform: capitalize !important;
@@ -76,8 +76,8 @@
 .gre{
 	color: grey;
 	font-size: 17px;
-	text-align: center;
-	font-family: 'Open Sans', sans-serif;
+	text-align: justify;
+	font-family: 'Vollkorn', serif;
 }
 .one{
 	font-size: 60px;
@@ -90,19 +90,35 @@
 	font-weight: bold;
 }
 .gre{
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Vollkorn', serif;
 	color: black;
 	font-size: 17px;
-	text-align: center;
+	text-align: justify;
 }
 .ic{
 	font-size: 65px !important;
 }
+.box{
+	border:2px solid grey;
+	height: 400px;
+}
+.box_cont{
+	position: absolute;
+	top: 50%;
+	right: 50px;
+	font-size: 16px;
+	text-transform: uppercase;
+}
 td{
 	text-align: center !important;
+	font-family: 'Vollkorn', serif;
+
 }
 table{
 	text-align: center;
+	width: 100%;
+	margin-top: 30px;
+	margin-bottom: 20px;
 }
 .our{
 	text-align: center;
@@ -110,10 +126,65 @@ table{
 	font-family: 'Vollkorn', serif;
 	font-size: 35px;
 }
+.ton{
+	background-color: #000;
+	height: 150px;
+	margin-top: 30px;
+	margin-bottom: 20px;
+	width: 100% !important;
+}
+.butt{
+	border-radius: 5px;
+	height: 50px;
+	width: 50%;
+	border:none;
+	opacity: 1;
+	animation-name: fadeInDown;
+    animation-duration: 4s;
+}
+.butt:hover{
+	color: red;
+}
 .lor{
 	font-size: 20px;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Vollkorn', serif;
 }
-.light{
+.lightt{
 	color: red;
+	font-size: 100px !important;
+	text-align: center !important;
+}
+.cont{
+	font-size: 30px;
+	font-family: 'Vollkorn', serif;
+}
+.banner_wrapper1{
+	height: 300px;
+	margin-top: 20px;
+}
+.banner_img1{
+	background-image: url(../images/Contact.jpg);
+	background-repeat: no-repeat;
+	background-size:100% auto;
+	height: 300px;
+}
+.tact{
+	font-size: 126px !important;
+	padding-top: 130px;
+	color: red;
+	text-align: center;
+}
+.uus{
+	font-size: 20px;
+	color: #000;
+	text-align: center;
+}
+footer{
+	background-color: #000;
+	height: 50px;
+}
+
+.mat{
+	color: #fff;
+	// margin-top: 20px;
 }
