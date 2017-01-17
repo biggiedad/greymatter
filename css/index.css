@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto');
 *{
 	padding: 0px;
 	margin: 0px;
@@ -68,16 +67,15 @@
 }
 .mak{
 	font-size: 35px;
-	margin-top: 25px;
 	text-align: center;
-	font-family: 'Vollkorn', serif;
+	font-family: Museo;
 	text-transform: capitalize !important;
 }
 .gre{
 	color: grey;
 	font-size: 17px;
 	text-align: justify;
-	font-family: 'Vollkorn', serif;
+	font-family: Museo;
 }
 .one{
 	font-size: 60px;
@@ -90,7 +88,7 @@
 	font-weight: bold;
 }
 .gre{
-	font-family: 'Vollkorn', serif;
+	font-family: Museo;
 	color: black;
 	font-size: 17px;
 	text-align: justify;
@@ -98,37 +96,74 @@
 .ic{
 	font-size: 65px !important;
 }
+.opt{
+	padding-right: 0px !important;
+	padding-left: 0px !important;
+	margin-top: 30px;
+	// background-color: blue;
+}
 .box_cont1{
 	text-align: center;
-	color: white;
+	color: #fff;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 30px;
 }
-
 
 .box{
-	// border:2px solid grey;
 	height: 400px;
-	background-color: #0000CD;
+}
+.img-box{
+	background-image: url(../images/Digit.jpg);
+	background-repeat: no-repeat;
+	background-size:auto 100%;
+	margin-top: 0px;
+	height: 400px;
+}
+.img-box1{
+	background-image: url(../images/log.jpg);
+	background-repeat: no-repeat;
+	background-size:auto 100%;
+	height: 400px;
+}
+.optt{
+	padding-right: 0px !important;
+	padding-left: 0px !important;
+	margin-top: -35px;
+}
+.img-box2{
+	background-image: url(../images/bran.jpg);
+	background-repeat: no-repeat;
+	background-size:auto 100%;
+	height: 400px;
+}
+.img-box3{
+	background-image: url(../images/exp.jpg);
+	background-repeat: no-repeat;
+	background-size:auto 100%;
+	margin-top: 30px;
+	height: 400px;
 }
 .box_cont{
-	color: white;
-	font-size: 16px;
-	text-align: justify;
+	color: #000;
+	font-size: 20px;
+	text-align: center;
+	
 }
 td{
 	text-align: center !important;
-	font-family: 'Vollkorn', serif;
+	font-family: Museo;
 
 }
 table{
 	text-align: center;
 	width: 100%;
-	margin-top: 30px;
 	margin-bottom: 20px;
 }
 .our{
 	text-align: center;
 	padding-top: 30px;
-	font-family: 'Vollkorn', serif;
+	font-family: Museo;
 	font-size: 35px;
 }
 .ton{
@@ -150,9 +185,14 @@ table{
 .butt:hover{
 	color: red;
 }
+.wer{
+	margin-top: 5px;
+}
+
+
 .lor{
 	font-size: 20px;
-	font-family: 'Vollkorn', serif;
+	font-family: Museo;
 }
 .lightt{
 	color: red;
@@ -161,11 +201,12 @@ table{
 }
 .cont{
 	font-size: 30px;
-	font-family: 'Vollkorn', serif;
+	font-family: Museo;
 }
 .banner_wrapper1{
 	height: 300px;
 	margin-top: 20px;
+	display: none;
 }
 .banner_img1{
 	background-image: url(../images/Contact.jpg);

@@ -2094,7 +2094,7 @@ a.pa_italic:focus {
 }
 @media (max-width: 1280px){
 	.about, .team, .testimonials, .comments, .single, .services, .services-bottom, .services-icons, .gallery, .typo, .mail {
-		padding: 4em 0;
+		padding: 0em 0;
 	}
 	.agileits_about_bottom_left {
 		padding: 2em 2em 1.8em 4em;
