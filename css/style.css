@@ -489,9 +489,7 @@ ul.social-icons li {
 }
 /*-- //header --*/
 /*-- about --*/
-.about,.team,.testimonials,.comments,.single,.services,.services-bottom,.services-icons,.gallery,.typo,.mail{
-	padding:5em 0;
-}
+
 .about h3,.team h3,.testimonials h3,.newsletter h3,.services h3,.services-bottom h3,.gallery h3,h3.title,.mail h3{
 	font-size: 2.5em;
     color: #212121;

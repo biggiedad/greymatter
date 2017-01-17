@@ -68,8 +68,12 @@
 .mak{
 	font-size: 35px;
 	text-align: center;
+	margin-top: 30px;
 	font-family: Museo;
 	text-transform: capitalize !important;
+}
+.mak_1 {
+	margin-top: 0px;
 }
 .gre{
 	color: grey;
@@ -158,7 +162,7 @@ td{
 table{
 	text-align: center;
 	width: 100%;
-	margin-bottom: 20px;
+	margin-bottom: 30px;
 }
 .our{
 	text-align: center;
@@ -184,9 +188,6 @@ table{
 }
 .butt:hover{
 	color: red;
-}
-.wer{
-	margin-top: 5px;
 }
 
 
