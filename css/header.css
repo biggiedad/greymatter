@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Vollkorn');
 .gg{
 	background-color: #fff !important;
 	opacity: 0.6;
@@ -15,7 +14,7 @@
 }
 .call{
 	color: #000 !important;
-	font-family: 'Cormorant Garamond', serif;
+	font-family: Museo;
 }
 .listt{
 	float: right;
