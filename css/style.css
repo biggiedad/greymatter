@@ -266,7 +266,7 @@ ul.social-icons li {
 }
 .navbar-nav > li > a {
     font-size: 14px;
-    text-transform: uppercase;
+    text-transform: capitalize;
     padding: 20px 15px 0;
 }
 .header-bottom {
