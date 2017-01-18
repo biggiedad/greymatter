@@ -19,4 +19,20 @@
 .listt{
 	float: right;
 }
+.uus{
+	font-size: 20px;
+	color: #F57A7E;
+}
+
+.tact{
+	font-size: 126px !important;
+	padding-top: 130px;
+	color: #F57A7E;
+	text-align: center;
+}
+footer{
+	background-color: #000;
+	height: 50px;
+}
+
 
