@@ -1264,7 +1264,7 @@ p.your:after {
 .nav-tabs > li > a {
     margin-right: 3px;
     border-radius: 0;
-    font-size:14px;
+    font-size:11px;
     color: #212121;
 	border: none;
 	text-transform:uppercase;
@@ -1286,7 +1286,7 @@ p.your:after {
     color: #F58703;
 }
 .nav-tabs > li:first-child {
-    margin-left: 10em;
+    margin-left: 5em;
 }
 .view-sixth img {
    -webkit-transition: all 0.4s ease-in-out 0.5s;
