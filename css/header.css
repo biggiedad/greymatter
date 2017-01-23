@@ -17,7 +17,7 @@
 	font-family: Museo;
 }
 footer{
-	background-color: #000;
+	background-color: #000 !important;
 	height: 50px;
 }
 .listt{
