@@ -51,9 +51,135 @@ h2 span {
 table{
 	width: 100%;
 }
+
 .dig_banner{
 	background-image: url(../images/check.jpg);
 	background-repeat: no-repeat;
-	background-size: auto 100%;
+	background-size:100% auto;
 	height: 300px;
+	position: relative;
+}
+.dig_cont{
+	background-color: yellow;
+	width: 50%;
+	padding: 20px;
+	height: 302px;
+	position: absolute;
+	z-index: 2;
+	top: 0px;
+	right: 0px;
+	opacity: 0.6;	
+}
+.git{
+	color: #fff;
+	font-family: Museo;
+	font-size: 30px;
+	font-weight: 600;
+	text-align: center;
+}
+.rem{
+	color: #000;
+	text-align:justify;
+	font-weight: bold;
+}
+.moree{
+	color: #000;
+	font-size: 20px;
+	height: 40px;
+	width: 126px;
+	border-radius: 5px;
+	border: none;
+	float: right;
+}
+.exp_banner{
+	background-image: url(../images/ool.jpg);
+	background-repeat: no-repeat;
+	background-size:100% auto;
+	height: 300px;
+	position: relative;
+}
+.exp{
+	color: #fff;
+	font-family: Museo;
+	font-size: 30px;
+	font-weight: 600;
+	text-align: center;
+}
+.rem1{
+	color: #000;
+	text-align:justify;
+	padding-top: 50px;
+	font-weight: bold;
+}
+.exp_cont{
+	background-color: #A57D49;
+	width: 50%;
+	height: 302px;
+	position: absolute;
+	z-index: 2;
+	top: 0px;
+	padding: 20px;
+	left: 0px;
+	opacity: 0.6;	
+}
+.learn_banner{
+	background-image: url(../images/el.jpeg);
+	background-repeat: no-repeat;
+	background-size:100% auto;
+	height: 300px;
+	position: relative;
+}
+.mak{
+	color: #fff;
+	font-family: Museo;
+	font-size: 30px;
+	font-weight: 600;
+	text-align: center;
+}
+.rem1{
+	color: #000;
+	text-align:justify;
+	padding-top: 50px;
+	font-weight: bold;
+}
+.learn_cont{
+	background-color:#EB950A;
+	width: 50%;
+	height: 302px;
+	position: absolute;
+	z-index: 2;
+	padding: 20px;
+	top: 0px;
+	right: 0px;
+	opacity: 0.6;	
+}
+.spon_banner{
+	background-image: url(../images/comp.jpg);
+	background-repeat: no-repeat;
+	background-size:100% auto;
+	height: 300px;
+	position: relative;
+}
+.spon{
+	color: #fff;
+	font-family: Museo;
+	font-size: 30px;
+	font-weight: 600;
+	text-align: center;
+}
+.rem1{
+	color: #000;
+	text-align:justify;
+	font-weight: bold;
+}
+.spon_cont{
+	background-color:#FF0000;
+	width: 50%;
+	height: 302px;
+	position: absolute;
+	z-index: 2;
+	padding: 20px;
+	top: 0px;
+	left: 0px;
+	opacity: 0.6;	
 }

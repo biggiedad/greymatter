@@ -102,7 +102,7 @@
 	font-family: Museo;
 	color: black;
 	font-size: 15px;
-	text-align: justify;
+	text-align: justify  !important;
 }
 .ic{
 	font-size: 65px !important;
@@ -229,7 +229,14 @@ table{
 	color: #fff;
 	// margin-top: 20px;
 }
+.ip{
+	padding-top: 10px;
+	font-family: Museo;
+	font-size: 18px;
+}
 .dig{
 	text-align: center;
-	
+	font-size: 20px;
+	padding-top: 30px;
+	font-family: Museo;
 }
