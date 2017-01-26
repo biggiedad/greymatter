@@ -202,6 +202,7 @@ table{
 .lor{
 	font-size: 15px;
 	font-family: Museo;
+	text-align: justify !important;
 }
 .lightt{
 	color: red;
@@ -227,12 +228,12 @@ table{
 
 .mat{
 	color: #fff;
-	// margin-top: 20px;
 }
 .ip{
-	padding-top: 10px;
+	padding: 20px;
 	font-family: Museo;
 	font-size: 18px;
+	text-align: justify !important;
 }
 .dig{
 	text-align: center;
