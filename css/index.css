@@ -288,7 +288,39 @@ table{
 // 	text-align: center;
 // }
 
-
+.banner_wrapperr{
+	height: 300px !important;
+	position: relative;
+}
+.banner_imgg{
+	background-image: url(../images/el.jpeg);
+	background-repeat: no-repeat;
+	background-size:100% auto;
+	height: 300px;
+}
+.ban-cont{
+	background-color: black;
+	width: 50%;
+	padding: 20px;
+	height: 302px;
+	position: absolute;
+	z-index: 2;
+	top: 0px;
+	left: 0px;
+	opacity: 0.6;	
+}
+.git{
+	color: red;
+	font-family: Museo;
+	font-size: 20px;
+	font-weight: 600;
+	text-align: center;
+}
+.rem{
+	color: #fff;
+	text-align:justify !important;
+	font-weight: bold;
+}
 .mat{
 	color: #fff;
 }
