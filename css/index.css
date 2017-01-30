@@ -300,9 +300,9 @@ table{
 }
 .ban-cont{
 	background-color: brown;
-	width: 50%;
+	width: 100%;
 	padding: 20px;
-	height: 302px;
+	height: 400px;
 	position: absolute;
 	z-index: 2;
 	top: 0px;
@@ -321,6 +321,10 @@ table{
 	font-size: 20px;
 	text-align:justify !important;
 	font-weight: bold;
+}
+.rwo{
+	margin-left:0px !important;
+	margin-right: 0px !important;
 }
 .mat{
 	color: #fff;
