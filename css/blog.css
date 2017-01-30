@@ -5,7 +5,7 @@
 .banner_img{
 	background-image: url(../images/blog.jpg);
 	background-repeat: no-repeat;
-	background-size: auto 100%;
+	background-size: 100% auto;
 	height: 400px;
 	position: relative;
 }

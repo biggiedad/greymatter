@@ -17,43 +17,26 @@
 .drop{
 	text-align: center;
 }
-.dt{
-	border: 3px solid #e8e8e8;
-	box-shadow: 0px 3px 1px 1spx #ddd;
-	padding: 5px;
-}
-.cal{
-	text-align: center;
-}
-.dt1{
-	border: 3px solid #e8e8e8;
-	box-shadow: 0px 3px 1px 1spx #ddd;
-	padding: 5px;
-}
-.add{
+.table1{
 	box-shadow: 0px 3px 1px 1spx #ddd;
 	border: 3px solid #e8e8e8;
-	padding: 5px;
+	margin: 10px;
 }
-td{
-	padding: 5px;
-}
-
-
-
-table{
-	margin-top: 10px;
-}
-
 
 button{
 	border-radius: 5px;
+	text-align: center;
 	height: 50px;
 	width: 100px;background-color: red;
 	border: none;
 	color: white !important;
 	font-weight: bold;		
 }
+// footer{
+// 	margin-top: 10px;
+// }
+
+
 
 
 

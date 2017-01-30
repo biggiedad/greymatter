@@ -7,7 +7,7 @@
 	height: 700px !important;
 }
 .banner_img{
-	background-image: url(../images/test.jpg);
+	background-image: url(../images/testt.jpg);
 	background-repeat: no-repeat;
 	background-size:auto 100%;
 	height: 700px;
@@ -97,6 +97,69 @@
 	color: black;
 	font-size: 60px;
 	font-weight: bold;
+}
+.image{
+	background-image: url(../images/img1.jpg);
+	background-repeat: no-repeat;
+	background-size:auto 100%;
+	margin-top: 0px;
+	height: 400px;
+}
+.image1{
+	background-image: url(../images/img2.png);
+	background-repeat: no-repeat;
+	background-size:auto 100%;
+	margin-top: 0px;
+	height: 400px;
+}
+.image2{
+	background-image: url(../images/img3.jpg);
+	background-repeat: no-repeat;
+	background-size:auto 100%;
+	margin-top: 0px;
+	height: 400px;
+}
+.imag{
+	background-image: url(../images/ex.jpg);
+	background-repeat: no-repeat;
+	background-size:auto 100%;
+	margin-top: 0px;
+	height: 400px;
+}
+.imag2{
+	background-image: url(../images/ee.jpg);
+	background-repeat: no-repeat;
+	background-size:auto 100%;
+	margin-top: 0px;
+	height: 400px;
+}
+.imag1{
+	background-image: url(../images/es.jpg);
+	background-repeat: no-repeat;
+	background-size:auto 100%;
+	margin-top: 0px;
+	height: 400px;
+}
+.img{
+	background-image: url(../images/data.png);
+	background-repeat: no-repeat;
+	background-size:auto 100%;
+	margin-top: 0px;
+	height: 400px;
+}
+.img1{
+	background-image: url(../images/brann.jpeg);
+	background-repeat: no-repeat;
+	background-size:auto 100%;
+	margin-top: 0px;
+	height: 400px;
+}
+.img2{
+	background-image: url(../images/brann.jpg);
+	background-repeat: no-repeat;
+	background-size: auto 100%;
+	margin-top: 0px;
+	height: 400px;
 }
 .gre{
 	font-family: Museo;
