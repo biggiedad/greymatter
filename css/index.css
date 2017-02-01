@@ -294,12 +294,15 @@ table{
 
 .banner_wrapperr{
 	height: 500px !important;
+	width: 100%;
 }
 .banner_imgg{
 	background-image: url(../images/ol.jpg);
 	background-repeat: no-repeat;
-	background-size:auto 100% ;
+	background-size:100% auto ;
 	height: 500px;
+		width: 100%;
+
 	background-attachment: fixed;
 }
 .ban-cont{
