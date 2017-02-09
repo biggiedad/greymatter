@@ -51,6 +51,9 @@ h2 span {
 table{
 	width: 100%;
 }
+.left{
+	padding-left: 200px !important;
+}
 
 .dig_banner{
 	background-image: url(../images/check.jpg);
